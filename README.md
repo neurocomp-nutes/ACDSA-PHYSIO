@@ -36,3 +36,14 @@ Below is the complete search string used in the databases:
   
 TITLE-ABS-KEY ( ( "Artificial Intelligence" OR "Machine Intelligence" OR "Machine Learning" OR "Learning Machine" OR "Learning Machines" OR "Deep Learning" OR "Deep Machine Learning" OR "Deep ML" OR "Transfer Learning" OR "Hierarchical Learning" OR "Artificial Neural Network" OR "Artificial Neural Networks" OR "Algorithmic Neural Network" OR "Computational Neural Network" OR "Computational Neural Networks" OR "Computer Neural Network" OR "Computer Neural Networks" OR "Computerized Neural Network" OR "Artificial NN" OR "ANN" OR "ANN Analysis" OR "ANN Approach" OR "ANN Method" OR "ANN Methodology" OR "ANN Model" OR "ANN Modeling" OR "ANN Models" OR "ANN Technique" OR "ANN Training" OR "Connectionist Model" OR "Connectionist Models" OR "Connectionist Network" OR "Connectionist System" OR "Neural Network" OR "Neural Networks" OR "Neural Network Algorithm" OR "Neural Network Model" OR "Neural Network Models" OR "Perceptron" OR "Perceptrons" OR "Computer Reasoning" OR "Computational Intelligence" OR "Computer Vision System" OR "Computer Vision Systems" OR "Knowledge Acquisition" OR "Knowledge Representation" OR "Computational Neuroscience" OR "Computation Neuroscience" OR "Mathematical Neuroscience" OR "Theoretical Neuroscience" ) AND ( "Physiotherapy" OR "Physio Therapy" OR "Physical Therapy" OR "Neurophysiotherapy" OR "Neurological Physiotherapy" OR "Neurorehabilitation" OR "Neuro-Rehabilitation" OR "Neurologic Rehabilitation" OR "Neurological Rehabilitation" ) ) AND PUBYEAR > 2014 AND PUBYEAR < 2026
 
+## Data Extraction
+Data extraction was performed by two pairs of reviewers working independently and in a blinded manner. Any disagreements between reviewers were resolved by consensus and, when necessary, with the involvement of a third reviewer. This stage was carried out using a pre-designed, standardized, and reviewer-validated form in Microsoft Office Excel®.
+
+The spreadsheets used for data organization and extraction are available in:
+
+## PRISMA-ScR Flow Diagram
+The flow diagram describing the study identification, screening, eligibility, and inclusion process:
+
+
+
+
