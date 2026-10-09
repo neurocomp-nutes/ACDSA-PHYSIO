@@ -40,6 +40,7 @@ TITLE-ABS-KEY ( ( "Artificial Intelligence" OR "Machine Intelligence" OR "Machin
 Data extraction was performed by two pairs of reviewers working independently and in a blinded manner. Any disagreements between reviewers were resolved by consensus and, when necessary, with the involvement of a third reviewer. This stage was carried out using a pre-designed, standardized, and reviewer-validated form in Microsoft Office Excel®.
 
 The spreadsheets used for data organization and extraction are available in:
+→ [Data Extraction Spreadsheet](data/data_extraction.xlsx)
 
 ## PRISMA-ScR Flow Diagram
 The flow diagram describing the study identification, screening, eligibility, and inclusion process:
