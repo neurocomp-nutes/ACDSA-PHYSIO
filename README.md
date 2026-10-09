@@ -44,7 +44,7 @@ The spreadsheets used for data organization and extraction are available in:
 
 ## PRISMA-ScR Flow Diagram
 The flow diagram describing the study identification, screening, eligibility, and inclusion process:
-<img src="reporting/prisma_flow_diagram.png" width="900" alt="Prisma Flow Chart">
+
 
 
 
